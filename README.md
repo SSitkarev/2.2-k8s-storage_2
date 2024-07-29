@@ -32,8 +32,6 @@ persistentvolume-controller может удалить данные только 
 
 После удаления PV, файл сохранился на диске ноды, чтобы удалился нужно установить политику persistentVolumeReclaimPolicy: Recycle
 
-Предоставить манифесты, а также скриншоты или вывод необходимых команд.
-
 ## Задание 2
 
 Создать Deployment приложения, которое может хранить файлы на NFS с динамическим созданием PV.
@@ -57,5 +55,3 @@ persistentvolume-controller может удалить данные только 
 ![Задание2](https://github.com/SSitkarev/2.2-k8s-storage_2/blob/main/img/6.jpg)
 
 ![Задание2](https://github.com/SSitkarev/2.2-k8s-storage_2/blob/main/img/7.jpg)
-
-Предоставить манифесты, а также скриншоты или вывод необходимых команд.
